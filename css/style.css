@@ -1,0 +1,92 @@
+* {
+  width: 100%;
+}
+
+div {
+  margin-bottom: 40px;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 400px;
+  height: 40px;
+  border: solid 1px grey;
+}
+
+#second {
+  padding-bottom: 2px;
+  width: 400px;
+  height: 40px;
+  border: solid 1px red;
+}
+
+#invalid {
+  padding-top: 2px;
+  margin-top: 2px;
+  text-align: right;
+  color: red;
+  width: 400px;
+}
+
+#two {
+  margin-bottom: 80px;
+}
+
+select {
+  width: 400px;
+  height: 40px;
+  border: solid 1px grey;
+}
+
+#opt1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#four {
+  margin-bottom: 60px;
+}
+
+#checkbox {
+  height: 80px;
+  width: 100px;
+}
+
+#radio {
+  height: 80px;
+  width: 100px;
+}
+
+.button {
+  width: 400px;
+  height: 100px;
+}
+
+#button1 {
+  background-color: grey;
+  width: 125px;
+  height: 50px;
+  border: none;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+#button2 {
+  background-color: black;
+  width: 125px;
+  height: 50px;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
